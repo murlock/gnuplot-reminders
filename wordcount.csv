@@ -1,4 +1,4 @@
 job,randomtextwriter,wordcount
-S3A Directory, 718, 2552
-S3A Magic, 671, 2440
 HDFS, 677, 2888
+OpenIO, 690, 2552
+Minio, 778, 2441

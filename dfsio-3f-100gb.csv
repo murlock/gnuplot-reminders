@@ -1,4 +1,4 @@
 job,Write, Read
-Minio (Directory), 88.53, 127.4
-Openio (Magic), 435.23, 203.05
 HDFS, 433.62, 149.45
+Openio, 435.23, 203.05
+Minio, 88.53, 127.4

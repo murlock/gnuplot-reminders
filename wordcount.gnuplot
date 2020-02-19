@@ -9,6 +9,8 @@ set boxwidth 0.9
 set xtic rotate by -45 scale 0
 set datafile separator ","
 
+set label "in seconde, lower is better" at screen 0.5, 0.9 center font "Arial,8"
+
 set term png
 set output "wordcount.png"
 

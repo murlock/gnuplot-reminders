@@ -1,0 +1,4 @@
+job,Write, Read
+HDFS, 65.5, 96.68
+Openio, 40.79, 86.46
+Minio, 53.12, 111.51

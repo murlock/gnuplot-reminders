@@ -1,4 +1,4 @@
 job,teragen,terasort,teravalidate
-S3A Directory, 796, 2237, 443
-S3A Magic, 754, 2092, 443
-HDFS, 690,  2041, 357
+HDFS, 690, 2041, 357
+OpenIO, 754, 1928, 443
+Minio, 846, 2321, 536
